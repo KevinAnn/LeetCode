@@ -19,7 +19,7 @@ import java.util.Set;
  * @author An Qi
  * @date 2020/7/13
  */
-public class FindRepeatNumber {
+public class IcofFindRepeatNumber {
 
     public static void main(String[] args) {
         int[] nums = {2, 3, 1, 0, 2, 5, 3};

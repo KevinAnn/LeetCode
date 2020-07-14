@@ -15,7 +15,7 @@ import com.util.Util;
  * @author An Qi
  * @date 2020/7/13
  */
-public class ReplaceSpace {
+public class IcofReplaceSpace {
 
     public static void main(String[] args) {
         Util.print(replaceSpace("We are happy."));

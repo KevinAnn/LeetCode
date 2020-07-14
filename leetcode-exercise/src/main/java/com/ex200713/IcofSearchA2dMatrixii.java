@@ -24,7 +24,7 @@ import com.util.Util;
  * @author An Qi
  * @date 2020/7/13
  */
-public class SearchA2dMatrixii {
+public class IcofSearchA2dMatrixii {
 
     public static void main(String[] args) {
         int[][] matrix = {

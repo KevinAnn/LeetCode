@@ -1,6 +1,6 @@
 package com.ex200521;
 
-import com.util.Util;
+import com.base.util.Util;
 
 /**
  * 27-移除元素

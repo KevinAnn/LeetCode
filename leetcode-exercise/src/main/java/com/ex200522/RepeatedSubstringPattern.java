@@ -1,6 +1,6 @@
 package com.ex200522;
 
-import com.util.Util;
+import com.base.util.Util;
 
 /**
  * 459. 重复的子字符串

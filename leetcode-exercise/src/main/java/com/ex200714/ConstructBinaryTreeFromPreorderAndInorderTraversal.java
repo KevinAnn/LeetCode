@@ -1,7 +1,6 @@
 package com.ex200714;
 
-import com.util.TreeNode;
-import com.util.Util;
+import com.base.data.TreeNode;
 
 import java.util.HashMap;
 import java.util.Map;

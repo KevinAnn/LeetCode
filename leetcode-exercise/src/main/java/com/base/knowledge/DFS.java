@@ -1,6 +1,6 @@
 package com.base.knowledge;
 
-import com.util.Util;
+import com.base.util.Util;
 
 /**
  * 深度优先搜索遍历图

@@ -1,6 +1,6 @@
 package com.ex200525;
 
-import com.util.Util;
+import com.base.util.Util;
 
 /**
  * 34. 在排序数组中查找元素的第一个和最后一个位置

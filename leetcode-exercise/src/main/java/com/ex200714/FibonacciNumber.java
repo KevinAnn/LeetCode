@@ -1,6 +1,6 @@
 package com.ex200714;
 
-import com.util.Util;
+import com.base.util.Util;
 
 /**
  * 509. 斐波那契数 / 剑指 Offer 10- I. 斐波那契数列

@@ -1,6 +1,6 @@
 package com.ex200521;
 
-import com.util.ListNode;
+import com.base.data.ListNode;
 
 /**
  * 237-删除链表中的节点

@@ -1,6 +1,6 @@
 package com.ex200518;
 
-import com.util.Util;
+import com.base.util.Util;
 
 /**
  * 1540 在既定时间做作业的学生人数

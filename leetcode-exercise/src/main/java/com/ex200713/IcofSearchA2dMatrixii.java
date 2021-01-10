@@ -1,6 +1,6 @@
 package com.ex200713;
 
-import com.util.Util;
+import com.base.util.Util;
 
 /**
  * 剑指 Offer 04. 二维数组中的查找 / 240. 搜索二维矩阵 II

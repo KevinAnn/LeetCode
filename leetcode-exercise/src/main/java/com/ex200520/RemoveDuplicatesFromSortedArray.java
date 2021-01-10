@@ -1,6 +1,6 @@
 package com.ex200520;
 
-import com.util.Util;
+import com.base.util.Util;
 
 /**
  * 26-删除排序数组中的重复项

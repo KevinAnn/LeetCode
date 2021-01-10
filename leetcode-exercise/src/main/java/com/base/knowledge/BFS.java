@@ -1,6 +1,6 @@
 package com.base.knowledge;
 
-import com.util.Util;
+import com.base.util.Util;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

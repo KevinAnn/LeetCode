@@ -1,7 +1,7 @@
 package com.ex200521;
 
-import com.util.ListNode;
-import com.util.Util;
+import com.base.data.ListNode;
+import com.base.util.Util;
 
 /**
  * 203-移除链表元素

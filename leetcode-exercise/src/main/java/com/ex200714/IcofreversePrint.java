@@ -1,6 +1,6 @@
 package com.ex200714;
 
-import com.util.ListNode;
+import com.base.data.ListNode;
 
 import java.util.Stack;
 

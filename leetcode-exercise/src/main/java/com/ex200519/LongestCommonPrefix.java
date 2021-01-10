@@ -1,6 +1,6 @@
 package com.ex200519;
 
-import com.util.Util;
+import com.base.util.Util;
 
 /**
  * 14-最长公共前缀

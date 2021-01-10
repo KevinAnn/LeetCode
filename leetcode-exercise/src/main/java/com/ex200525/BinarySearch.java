@@ -1,6 +1,6 @@
 package com.ex200525;
 
-import com.util.Util;
+import com.base.util.Util;
 
 /**
  * 704. 二分查找
